@@ -1,2 +1,2 @@
-<cfset strName = "Srinivas">
+<cfset strName = Srinivas">
 <cfoutput>#str Name#</cfoutput>
